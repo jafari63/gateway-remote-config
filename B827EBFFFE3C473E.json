@@ -1,7 +1,7 @@
 
 {
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFE3C473E",
+    "gateway_ID": "ttn-jeoit-lorawan",
     "servers": [
       {
         "server_address": "thethings.meshed.com.au",
